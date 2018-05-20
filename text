@@ -1,0 +1,24 @@
+   * Create a general strategy for how you will accomplish the task:
+
+      * How will you capture button clicks?
+        .OnClick event the calls the button id
+      * What will you do with the numbers clicked?
+        *push that value property on to an array
+        *using a .join operator display contents of array has the first header in results
+      * What will you do when the operator is clicked?
+        * stop array
+        * display operator on next line
+        * if another operator is pressed replace it
+        * if you start typing in another number it will go into another array
+      * How will you differentiate numbers from operators?
+        *diffrentiate variables
+      * How will you know the "value" of a number clicked?
+      * How will you know when a user is done entering the first number?
+      * Etc.
+
+    * Create a few test "on-click" events. These could just trigger Alert messages for now. If you get further along, then have these buttons alert their "value".
+
+
+
+
+
